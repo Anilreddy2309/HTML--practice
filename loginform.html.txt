@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>login form</h2>
+
+
+<form action="/action-page.php">
+User name:<br>
+<input type="text" name="userid">
+<br>
+User password:<br>
+<input type="password" name="psw"><br>
+<input type="submit" name="submit"><br>
+
+</form>
+
+
+
+</body>
+</html>
